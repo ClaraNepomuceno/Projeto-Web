@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário06</title>
+</head>
+<body>
+    <h1>Fale Conosco</h1>
+    <form action="">
+        <label for="Nome">Nome:</label>
+        <input type="text" id="Nome">
+    </form><br>
+
+    <form action="">
+        <label for="Email">Email:</label>
+        <input type="text" id="Email:">
+    </form><br>
+
+    <form action="">
+        <label for="Envie um Arquivo">Envie um Arquivo: <input type="button" value="Escolher arquivo"> Nenhum arquivo escolido</label>
+        </form> <br>
+
+    <form action="">
+        <label for="Mensagem">Mensagem</label> <br>
+        <textarea name="" id="" cols="30" rows="10" placeholder="Digite sua mensagem..."></textarea>
+    </form><br>
+
+   <form action="">
+    <input type="button" value="Enviar Mensagem">
+   </form>
+
+</body>
+</html>
